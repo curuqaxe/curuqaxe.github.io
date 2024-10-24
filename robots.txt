@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://curuqaxe.github.io/sitemap/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/ckv/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/wmk/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/Pxd/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/mSb/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/tma/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/lSW/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/Pof/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/WyS/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/COo/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/ksg/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/vWs/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/wuc/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/ATy/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/Yel/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/CPW/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/HtO/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/CFj/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/Oqm/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/NJo/sitemap_index.curuqaxe
+Sitemap: https://curuqaxe.github.io/WVt/sitemap_index.curuqaxe
